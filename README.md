@@ -32,6 +32,7 @@ Aplikasi ini memiliki fitur :
 fitur lain :
 1. Aplikasi Pegadaian berbasis syariah(menurut saya tidak terdapat unsur riba dalam aplikasi ini dikarenakan pihak pegadaian mendapat keuntungan bukan dari jasa peminjaman uang, namun pihak pegadaian mendapat keuntungan dari jasa penitipan barang yang telah digadaikan sesuai persentase estimasi harga yang telah ditetapkan pada script/kode aplikasi)
 2. Memiliki fitur responsif terutama pada tabel view(meskipun masih memiliki bug terutama saat menginput data yang terlalu panjang)
+3. Sudah Berbasis Object Oriented Programming (OOP)
 
 
 Ketentuan :
