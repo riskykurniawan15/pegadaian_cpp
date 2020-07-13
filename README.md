@@ -43,7 +43,7 @@ PEMBUAT   : RISKY KURNIAWAN <br>
 NIM       : 16180001 <br>
 KELAS     : 16.1A.33 <br>
 KELOMPOK  : 9 <br>
-VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++) <br>
+VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++) -> versi boleh disesuaikan <br>
 MODIFIED  : AGUNG DARMAWAN (NIM 2323) <br>
 NOTE      : Gunakan (Username:risky) dan (Password:kurniawan) -> note boleh diubah <br>
 //////////////////////////////////////////////////////////////////////////////////// <br>
