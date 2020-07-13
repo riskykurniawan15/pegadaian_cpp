@@ -1,20 +1,20 @@
 # pegadaian_cpp
-JUDUL     : APP PEGADAIAN SYARIAH
-PEMBUAT   : RISKY KURNIAWAN
-NIM       : 16180001
-KELAS     : 16.1A.33
-KELOMPOK  : 9
-VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++)
-NOTE      : Gunakan (Username:risky) dan (Password:kurniawan)
-
-/*
-  Pembuat    : Risky Kurniawan
-  Nim        : 16180001
-  Email      : Riskykurniawan@programmer.net / Riskykurniawan15@gmail.com
-  Kontak     : 083826114233
-  Pembimbing : Salman Topiq S.Kom, M.Kom
-  Diajukan   : Tugas Akhir Dasar Pemrograman
-*/
+JUDUL     : APP PEGADAIAN SYARIAH <br>
+PEMBUAT   : RISKY KURNIAWAN <br>
+NIM       : 16180001 <br>
+KELAS     : 16.1A.33 <br>
+KELOMPOK  : 9 <br>
+VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++) <br>
+NOTE      : Gunakan (Username:risky) dan (Password:kurniawan) <br>
+ <br>
+/* <br>
+  Pembuat    : Risky Kurniawan <br>
+  Nim        : 16180001 <br>
+  Email      : Riskykurniawan@programmer.net / Riskykurniawan15@gmail.com <br>
+  Kontak     : 083826114233 <br>
+  Pembimbing : Salman Topiq S.Kom, M.Kom <br>
+  Diajukan   : Tugas Akhir Dasar Pemrograman <br>
+*/ <br>
 
 Aplikasi ini memiliki fitur :
 1. Login aplikasi dengan username dan password(ketika di ketik menjadi *)
@@ -35,20 +35,20 @@ fitur lain :
 
 
 Ketentuan :
-Aplikasi ini bebas di copy namun dengan catatan tidak merubah atau menghilangkan komentar pada setiap script/kode, tidak merubah atau menghilangkan pula tampilan head aplikasi yang terdapat pada menu awal program(yang terdiri judul pembuat nim kelas) namun bagi rekan rekan yang ingin memodifikasi aplikasi tersebut diperbolehkan untuk menambah nama pemodifikasi dibawah versi app 
-contoh:
-////////////////////////////////////////////////////////////////////////////////////
-JUDUL     : APP PEGADAIAN SYARIAH
-PEMBUAT   : RISKY KURNIAWAN
-NIM       : 16180001
-KELAS     : 16.1A.33
-KELOMPOK  : 9
-VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++)
-MODIFIED  : AGUNG DARMAWAN (NIM 2323)
-NOTE      : Gunakan (Username:risky) dan (Password:kurniawan) -> note boleh diubah
-////////////////////////////////////////////////////////////////////////////////////
+Aplikasi ini bebas di copy namun dengan catatan tidak merubah atau menghilangkan komentar pada setiap script/kode, tidak merubah atau menghilangkan pula tampilan head aplikasi yang terdapat pada menu awal program(yang terdiri judul pembuat nim kelas) namun bagi rekan rekan yang ingin memodifikasi aplikasi tersebut diperbolehkan untuk menambah nama pemodifikasi dibawah versi app  <br>
+contoh: <br>
+//////////////////////////////////////////////////////////////////////////////////// <br>
+JUDUL     : APP PEGADAIAN SYARIAH <br>
+PEMBUAT   : RISKY KURNIAWAN <br>
+NIM       : 16180001 <br>
+KELAS     : 16.1A.33 <br>
+KELOMPOK  : 9 <br>
+VERSI APP : 1.1 (BUILD FULL WITH BORLAND C++) <br>
+MODIFIED  : AGUNG DARMAWAN (NIM 2323) <br>
+NOTE      : Gunakan (Username:risky) dan (Password:kurniawan) -> note boleh diubah <br>
+//////////////////////////////////////////////////////////////////////////////////// <br>
+ <br>
 
-
-Terimakasih :
-Dosen Pembimbing Salman Topiq S.Kom, M.Kom
-Rekan - rekan Fokmatif (beberapa fitur dipelajari dari fokmatif lalu dikembangkan sesuai kebutuhan)
+Terimakasih : <br>
+Dosen Pembimbing Salman Topiq S.Kom, M.Kom <br>
+Rekan - rekan Fokmatif (beberapa fitur dipelajari dari fokmatif lalu dikembangkan sesuai kebutuhan) <br>
